@@ -48,7 +48,7 @@ pip3 install opencv-python
 ```
 
 # Result
-![counter](https://github.com/z1ppyyy/Finger-Counter/assets/139076325/f13ff9da-c898-4d53-b9e4-7c005c441154)
+![counter](https://github.com/z1ppyyy/Finger-Counter/assets/139076325/ea65cf33-e0f9-40d0-9db3-7bb64fb27a10)
 
 
 # Hand Landmarks
