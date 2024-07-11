@@ -4,21 +4,21 @@ Finger Counter using Mediapipe and OpenCV
 This project is a finger counter implemented in Python, leveraging Mediapipe and OpenCV libraries. The application captures real-time video feed from a webcam, detects hand landmarks, and counts the number of fingers shown. It then overlays corresponding images and annotations onto the video feed based on the detected finger count.
 
 # Table of contents
-• [Features](https://github.com/z1ppyyy/Finger-Counter#features) 
+• [Features](https://github.com/z1ppyyy/Finger-Counter?tab=readme-ov-file#features) 
 
-• [Requirements](https://github.com/z1ppyyy/Finger-Counter#requirements)
+• [Requirements](https://github.com/z1ppyyy/Finger-Counter?tab=readme-ov-file#requirements)
 
-• [Usage](https://github.com/z1ppyyy/Finger-Counter#usage)
+• [Usage](https://github.com/z1ppyyy/Finger-Counter?tab=readme-ov-file#usage)
 
 • [Result](https://github.com/z1ppyyy/Finger-Counter#result)
 
-• [Hand Landmarks](https://github.com/z1ppyyy/Shaka-gesture-recognition#hand-Landmarks)
+• [Hand Landmarks](https://github.com/z1ppyyy/Finger-Counter?tab=readme-ov-file#hand-landmarks)
 
-• [Contributing](https://github.com/z1ppyyy/Finger-Counter#contributing)
+• [Contributing](https://github.com/z1ppyyy/Finger-Counter?tab=readme-ov-file#contributing)
 
-• [Help](https://github.com/z1ppyyy/Finger-Counter#help)
+• [Help](https://github.com/z1ppyyy/Finger-Counter?tab=readme-ov-file#help)
 
-• [License](https://github.com/z1ppyyy/Finger-Counter#license)
+• [License](https://github.com/z1ppyyy/Finger-Counter?tab=readme-ov-file#license)
 
 # Features
 • Real-time hand detection and finger counting.
@@ -48,8 +48,8 @@ pip3 install opencv-python
 ```
 
 # Result
+![counter](https://github.com/z1ppyyy/Finger-Counter/assets/139076325/f13ff9da-c898-4d53-b9e4-7c005c441154)
 
-https://github.com/z1ppyyy/Finger-Counter/assets/139076325/822a58cb-86ef-41ee-ae0d-5abe1e0be594
 
 # Hand Landmarks
 ![hand_landmarks](https://github.com/z1ppyyy/Finger-Counter/assets/139076325/d897b1c1-9d33-43a4-ad67-ee180a751dbc)
