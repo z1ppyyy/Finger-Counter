@@ -72,4 +72,4 @@ cap = cv.VideoCapture(0)
 # License
 The Finger Counter is open-source software released under the MIT License.
 
-Feel free to customize this guide page based on your specific bot implementation and project requirements.
+Feel free to customize this guide page based on your specific implementation and project requirements.
