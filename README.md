@@ -39,7 +39,7 @@ To use this program you have to install follownig libraries:
 1. Run the finger counter script:
    
 ```
-python finger_counter.py
+python counter.py
 ```
 2. A window will open displaying the webcam feed with the number of fingers detected.
 
