@@ -43,10 +43,6 @@ python finger_counter.py
 ```
 2. A window will open displaying the webcam feed with the number of fingers detected.
 
-```
-pip3 install opencv-python
-```
-
 # Result
 ![counter](https://github.com/z1ppyyy/Finger-Counter/assets/139076325/ea65cf33-e0f9-40d0-9db3-7bb64fb27a10)
 
